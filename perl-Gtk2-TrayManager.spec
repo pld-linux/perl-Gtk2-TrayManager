@@ -6,7 +6,7 @@
 %define		pdir	Gtk2
 %define		pnam	TrayManager
 Summary:	Gtk2::TrayManager - Perl bindings for EggTrayManager
-Summary(pl):	Gtk2::TrayManager - Dowi±zania Perla dla EggTrayManager
+Summary(pl.UTF-8):   Gtk2::TrayManager - DowiÄ…zania Perla dla EggTrayManager
 Name:		perl-Gtk2-TrayManager
 Version:	0.05
 Release:	1
@@ -28,9 +28,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Gtk2::TrayManager allows a Perl developer to create notification area
 applications.
 
-%description -l pl
-Gtk2::TrayManager pozwala programistom perlowym na tworzenie programów
-wykorzystuj±cych obszar powiadamiania.
+%description -l pl.UTF-8
+Gtk2::TrayManager pozwala programistom perlowym na tworzenie programÃ³w
+wykorzystujÄ…cych obszar powiadamiania.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
