@@ -6,7 +6,7 @@
 %define		pdir	Gtk2
 %define		pnam	TrayManager
 Summary:	Gtk2::TrayManager - Perl bindings for EggTrayManager
-Summary(pl.UTF-8):   Gtk2::TrayManager - Dowiązania Perla dla EggTrayManager
+Summary(pl.UTF-8):	Gtk2::TrayManager - Dowiązania Perla dla EggTrayManager
 Name:		perl-Gtk2-TrayManager
 Version:	0.05
 Release:	1
