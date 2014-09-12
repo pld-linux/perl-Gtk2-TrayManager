@@ -61,5 +61,4 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Gtk2/TrayManager/Install
 %dir %{perl_vendorarch}/auto/Gtk2/TrayManager
 %attr(755,root,root) %{perl_vendorarch}/auto/Gtk2/TrayManager/*.so
-%{perl_vendorarch}/auto/Gtk2/TrayManager/*.bs
 %{_mandir}/man3/*
