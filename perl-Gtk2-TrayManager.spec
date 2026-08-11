@@ -8,7 +8,7 @@ Summary:	Gtk2::TrayManager - Perl bindings for EggTrayManager
 Summary(pl.UTF-8):	Gtk2::TrayManager - Dowiązania Perla dla EggTrayManager
 Name:		perl-Gtk2-TrayManager
 Version:	0.05
-Release:	22
+Release:	23
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
